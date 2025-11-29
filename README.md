@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MoreVishal2/leetcode-python/tree/master/0001-two-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MoreVishal2/leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MoreVishal2/leetcode-python/tree/master/0013-roman-to-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
