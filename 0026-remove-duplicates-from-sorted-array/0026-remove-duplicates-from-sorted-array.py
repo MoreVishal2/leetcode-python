@@ -4,6 +4,7 @@ class Solution:
             return 0
         count=1
         for i in range(1,len(nums)):
+            #comparing with the previous element (count-1) and swapping the count
             if nums[count-1]<nums[i]:
                 temp=nums[count]
                 nums[count]=nums[i]
