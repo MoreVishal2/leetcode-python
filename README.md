@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MoreVishal2/leetcode-python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MoreVishal2/leetcode-python/tree/master/0066-plus-one) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MoreVishal2/leetcode-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MoreVishal2/leetcode-python/tree/master/0069-sqrtx) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MoreVishal2/leetcode-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
