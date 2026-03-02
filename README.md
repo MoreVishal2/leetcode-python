@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MoreVishal2/leetcode-python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MoreVishal2/leetcode-python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MoreVishal2/leetcode-python/tree/master/0066-plus-one) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MoreVishal2/leetcode-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -85,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
