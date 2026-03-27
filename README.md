@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MoreVishal2/leetcode-python/tree/master/0066-plus-one) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MoreVishal2/leetcode-python/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MoreVishal2/leetcode-python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MoreVishal2/leetcode-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MoreVishal2/leetcode-python/tree/master/0069-sqrtx) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MoreVishal2/leetcode-python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MoreVishal2/leetcode-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MoreVishal2/leetcode-python/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MoreVishal2/leetcode-python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MoreVishal2/leetcode-python/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MoreVishal2/leetcode-python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
 |  |
 | ------- |
