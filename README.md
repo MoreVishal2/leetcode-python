@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MoreVishal2/leetcode-python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MoreVishal2/leetcode-python/tree/master/0013-roman-to-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Database
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MoreVishal2/leetcode-python/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MoreVishal2/leetcode-python/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MoreVishal2/leetcode-python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
