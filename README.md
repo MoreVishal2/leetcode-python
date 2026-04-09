@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MoreVishal2/leetcode-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MoreVishal2/leetcode-python/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
