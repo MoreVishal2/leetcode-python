@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MoreVishal2/leetcode-python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MoreVishal2/leetcode-python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MoreVishal2/leetcode-python/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MoreVishal2/leetcode-python/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MoreVishal2/leetcode-python/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MoreVishal2/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MoreVishal2/leetcode-python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MoreVishal2/leetcode-python/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MoreVishal2/leetcode-python/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MoreVishal2/leetcode-python/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
