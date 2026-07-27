@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MoreVishal2/leetcode-python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MoreVishal2/leetcode-python/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MoreVishal2/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MoreVishal2/leetcode-python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MoreVishal2/leetcode-python/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MoreVishal2/leetcode-python/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MoreVishal2/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MoreVishal2/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MoreVishal2/leetcode-python/tree/master/3536-maximum-product-of-two-digits) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MoreVishal2/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
