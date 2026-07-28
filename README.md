@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MoreVishal2/leetcode-python/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MoreVishal2/leetcode-python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MoreVishal2/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MoreVishal2/leetcode-python/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MoreVishal2/leetcode-python/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MoreVishal2/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MoreVishal2/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
